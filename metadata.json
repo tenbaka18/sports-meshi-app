@@ -1,0 +1,8 @@
+{
+  "name": "Copy of スポめしコーチ",
+  "description": "An app that recognizes ingredients from voice and photos to propose dinner recipes for elementary school children who play sports, offering advice from a nutritionist's perspective.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
